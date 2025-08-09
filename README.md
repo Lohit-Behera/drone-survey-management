@@ -1,5 +1,9 @@
 # Drone Survey Management System
 
+## 🌐 Live Demo
+
+**Live Application**: [https://drone-survey-management.vercel.app](https://drone-survey-management.vercel.app)
+
 ## Design Challenge Overview
 
 This project addresses the challenge of designing a scalable system that enables large organizations to plan, manage, and monitor autonomous drone surveys across multiple global sites. The platform simplifies key operations like facility inspections, security patrols, and site mapping by coordinating drone missions remotely and intelligently.
